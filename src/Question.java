@@ -1,5 +1,5 @@
 import java.util.ArrayList;
-
+//D0240009
 public class Question {
 
 	/**
@@ -8,7 +8,8 @@ public class Question {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		quiz p = new problem("a+b=?");
+		p.showquiz();
 	}
 
 }
